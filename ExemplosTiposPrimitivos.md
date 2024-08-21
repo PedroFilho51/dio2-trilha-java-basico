@@ -13,13 +13,14 @@ Em Java, existem oito tipos primitivos, que são os tipos de dados mais básicos
 7. **char**: Representa um caractere Unicode de 16 bits.
 8. **boolean**: Representa um valor booleano (verdadeiro ou falso).
 
-## Exemplos de Declaração e Uso
 
-##Referências
+### Referências
 
 [bosontreinamentos.com.br](https://www.bosontreinamentos.com.br/java/declaracao-de-variaveis-em-java/)
 [www.guru99.com](https://www.guru99.com/pt/java-variables.html)
 [bytesapiens.com.br](https://bytesapiens.com.br/tutoriais/programacao/java/variaveis/)
+
+## Exemplos de Declaração e Uso
 
 Aqui estão alguns exemplos de como declarar e usar os tipos primitivos em Java:
 
@@ -58,4 +59,6 @@ public class ExemplosTiposPrimitivos {
         boolean exemploBoolean = true;
         System.out.println("Valor do boolean: " + exemploBoolean);
     }
+
 }
+
