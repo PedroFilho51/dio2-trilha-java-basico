@@ -17,7 +17,9 @@ Em Java, existem oito tipos primitivos, que são os tipos de dados mais básicos
 ### Referências
 
 [bosontreinamentos.com.br](https://www.bosontreinamentos.com.br/java/declaracao-de-variaveis-em-java/)
+
 [www.guru99.com](https://www.guru99.com/pt/java-variables.html)
+
 [bytesapiens.com.br](https://bytesapiens.com.br/tutoriais/programacao/java/variaveis/)
 
 ## Exemplos de Declaração e Uso
